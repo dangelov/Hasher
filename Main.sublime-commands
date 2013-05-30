@@ -25,18 +25,27 @@
         "args": {}
     },
     {
+        "caption": "Hasher: URI Encode",
+        "command": "uri_encode",
+        "args": {}
+    },
+    {
         "caption": "Hasher: URI Component Decode",
         "command": "uri_component_decode",
         "args": {}
     },
     {
-        "caption": "Hasher: Entity Encode",
-        "command": "entity_encode",
+        "caption": "Hasher: HTML Entity Encode",
+        "command": "html_entity_encode",
+        "args": {}
+    },    {
+        "caption": "Hasher: HTML Entity Encode All",
+        "command": "html_entity_encode_all",
         "args": {}
     },
     {
-        "caption": "Hasher: Entity Decode",
-        "command": "entity_decode",
+        "caption": "Hasher: HTML Entity Decode",
+        "command": "html_entity_decode",
         "args": {}
     },
     {
